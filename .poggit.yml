@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ayush708/Farm-Replanted-and-ore-dungeon-v1
+build-by-default: true
+branches:
+- main
+projects: []
+...
